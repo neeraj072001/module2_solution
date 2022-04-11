@@ -68,7 +68,7 @@ section p {
     }
     .tablet3{
       float: left;
-      width: 100;
+      width: 100%;
     }
     
   }
